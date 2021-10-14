@@ -1,0 +1,65 @@
+/*google fonts*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
+/* section top navbar */
+/* navbar */
+/* .navbar {
+  padding: 0 0 4.5rem;
+}  */
+/* .nav-item {
+  padding: 0 18px;
+}*/
+.navbar-nav {
+  margin-left: 50%;
+}
+
+.top-navbar {
+  -webkit-box-shadow: -1px 10px 14px -6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 10px 14px -6px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 10px 14px -6px rgba(0, 0, 0, 0.75);
+}
+.bg-light {
+  background-color: #e6e8eb !important;
+}
+.navbar-brand {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #1892f2 !important;
+  float: none;
+}
+.navbar-header {
+  float: left;
+  padding: 15px;
+  text-align: center;
+  width: 50%;
+}
+.nav-link {
+  font-size: 1.5rem;
+  font-family: "Noto Sans", sans-serif;
+}
+.first-item {
+  margin-left: 50%;
+}
+
+/* section main */
+.middle-box {
+  width: 400px;
+  height: 150px;
+  margin-top: 200px;
+  text-align: center;
+  font-size: 2rem;
+  font-family: "Noto Sans", sans-serif;
+  border-radius: 25px;
+  background-color: #000000 !important;
+}
+.color {
+  color: #1892f2;
+}
+
+/* button */
+.button {
+  margin-top: 20px;
+  font-family: "Noto Sans", sans-serif;
+}
