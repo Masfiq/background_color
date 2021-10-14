@@ -1,15 +1,7 @@
-/*google fonts*/
-
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 
 /* section top navbar */
 /* navbar */
-/* .navbar {
-  padding: 0 0 4.5rem;
-}  */
-/* .nav-item {
-  padding: 0 18px;
-}*/
 .navbar-nav {
   margin-left: 50%;
 }
