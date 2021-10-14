@@ -10,6 +10,7 @@ btn.addEventListener("click",function(){
       }
     document.body.style.backgroundColor=randomNumber;
     color.textContent=randomNumber;
+    color.style.color=randomNumber;
 }
 
 );
